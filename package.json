@@ -1,0 +1,23 @@
+{
+  "name": "csv-report-generator",
+  "version": "1.0.0",
+  "description": "Use express to build a client-server app that generates CSV reports from JSON data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thha3203/CSV-Report-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thha3203/CSV-Report-Generator/issues"
+  },
+  "homepage": "https://github.com/thha3203/CSV-Report-Generator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
