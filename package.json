@@ -4,7 +4,8 @@
   "description": "Use express to build a client-server app that generates CSV reports from JSON data.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --ignore node_modules server.js"
   },
   "repository": {
     "type": "git",
